@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Cheng-Yu Hsieh.</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max870701&label=Profile%20views&color=0e75b6&style=flat" alt="max870701" /> </p>
 
 - 👨‍💻 Interested in **Blockchain & Cryptocurrency, Quantitative Trading, Software Development, Cyber Security, Data Science, Data Engineering, Machine Learning**.
